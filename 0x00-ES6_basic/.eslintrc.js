@@ -26,4 +26,12 @@ module.exports = {
     ],
     "rules": {
     }
-}
+
+	verrides:[
+		    {
+			          files: ['*.js'],
+			          excludedFiles: 'babel.config.js',
+			        }
+		  
+	
+	 ]};
